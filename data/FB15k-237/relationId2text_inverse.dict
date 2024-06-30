@@ -1,0 +1,237 @@
+0	location mailing address state province region. organization organization headquarters
+1	colors educational institution education
+2	profession person people
+3	costume design by film film
+4	genre film film
+5	celebrities friendship friend. celebrities celebrity celebrity friends
+6	tv tv producer term producer type. tv tv producer programs produced
+7	executive produced by film film
+8	basketball basketball roster position position. sports sports team roster
+9	award award nomination nominated for. award award nominee award nominations
+10	award award honor award winner. award award category winners
+11	award award honor award winner. award award winner awards won
+12	origin artist music
+13	food nutrition fact nutrient. food food nutrients
+14	film film film distributor relationship region. film film distributors
+15	instance of recurring event event time
+16	sports sports league draft pick school. sports professional sports team draft picks
+17	language film film
+18	location imports and exports exported to. location statistical region places exported to
+19	music group membership group. music group member membership
+20	tv tv network duration program. tv tv network programs
+21	award award honor award winner. award award winning work awards won
+22	people place lived location. people person places lived
+23	travel travel destination monthly climate month. travel travel destination climate
+24	artist content broadcast
+25	celebrities impersonated celebrity impressionist americancomedy base
+26	base popstra breakup participant. base popstra celebrity breakup
+27	place founded organization organization
+28	business employment tenure company. people person employment history
+29	measurement unit dated money value currency. location statistical region gdp nominal per capita
+30	place of birth person people
+31	contains location location
+32	base popstra dated participant. base popstra celebrity dated
+33	member states international organization default domain ktrueman user
+34	government government position held legislative sessions. government legislative session members
+35	measurement unit dated money value currency. film film estimated budget
+36	organization non profit registration registering agency. organization non profit organization registered with
+37	location mailing address country. organization organization headquarters
+38	country bibs location biblioness base
+39	education education student. education educational institution students graduates
+40	music group membership role. music group member membership
+41	country administrative division location
+42	award ranking list. award ranked item appears in ranked lists
+43	diet practicer of diet eating base
+44	film performance film. film special film performance type film performance type
+45	award award nomination nominated for. award award nominated work award nominations
+46	film director film
+47	base x2010fifaworldcupsouthafrica current world cup squad current club. base x2010fifaworldcupsouthafrica world cup squad current world cup squad
+48	participating countries olympic games olympics
+49	music group membership role. music performance role regular performances
+50	music track contribution role. music artist track contributions
+51	administrative area type administrative area schema aareas base
+52	film film film distributor relationship film distribution medium. film film distributors
+53	sports olympic games olympics
+54	soccer football roster position position. soccer football team current roster
+55	olympics olympic athlete affiliation olympics. olympics olympic participating country athletes
+56	military military combatant group combatants. military military combatant military conflicts
+57	tv tv regular personal appearance program. tv tv personality tv regular appearances
+58	common webpage category. common topic webpage
+59	artists genre music
+60	featured film locations film film
+61	location adjoining relationship adjoins. location location adjoin s
+62	colors sports team sports
+63	program creator tv program tv
+64	measurement unit dated money value currency. business business operation operating income
+65	sports sports team roster position. ice hockey hockey team current roster
+66	prequel film film
+67	measurement unit dated money value currency. organization endowed organization endowment
+68	film sets designed film set designer film
+69	film art direction by film film
+70	countries spoken in human language language
+71	people marriage location of ceremony. people marriage union type unions of this type
+72	tv tv program writer relationship tv program. tv tv writer tv programs
+73	government political party tenure politician. government political party politicians in this party
+74	american football football historical roster position position s. sports sports team roster
+75	film film regional release date film release region. film film release date s
+76	film film regional release date film regional debut venue. film film release date s
+77	award award honor honored for. award award winning work awards won
+78	location administrative division capital relationship administrative division. location capital of administrative division capital of
+79	measurement unit dated integer source. location hud foreclosure area estimated number of mortgages
+80	award award honor ceremony. award award category winners
+81	languages person people
+82	film performance film. film actor film
+83	measurement unit dated money value currency. business business operation revenue
+84	base petbreeds dog city relationship dog breed. base petbreeds city with dogs top breeds
+85	teams sports team location sports
+86	music film film
+87	sports sports league draft pick draft. sports professional sports team draft picks
+88	education education major field of study. education educational institution students graduates
+89	geographic distribution ethnicity people
+90	sports sports league participation team. sports sports league teams
+91	education education student. education educational degree people with this degree
+92	government government position held jurisdiction of office. government politician government positions held
+93	capital administrative area schema aareas base
+94	film production design by film film
+95	sports olympic games default domain jg user
+96	category of award category award
+97	school type educational institution education
+98	baseball baseball roster position position. sports sports team roster
+99	tv tv producer term program. tv tv producer programs produced
+100	county seat us county location
+101	fraternities and sororities university education
+102	film film crew gig crewmember. film film other crew
+103	military military combatant group combatants. military military conflict combatants
+104	base popstra canoodled participant. base popstra celebrity canoodled
+105	education education institution. education educational degree people with this degree
+106	organization organization relationship child. organization organization child
+107	travel transportation mode of transportation. travel travel destination how to get here
+108	award award nomination nominated for. award award category nominees
+109	symptom of symptom medicine
+110	people ethnicity people
+111	film film crew gig film crew role. film film other crew
+112	government government position held legislative sessions. government governmental body members
+113	industry business operation business
+114	country film film
+115	specialization of profession people
+116	place hud county place location
+117	organization leadership organization. organization role leaders
+118	instrumentalists instrument music
+119	locations event time
+120	produced by film film
+121	music track contribution role. music performance role track performances
+122	film film cut film release region. film film runtime
+123	olympics olympic athlete affiliation country. olympics olympic sport athletes
+124	tv regular tv appearance actor. tv tv program regular cast
+125	award award nomination award. award award nominee award nominations
+126	people marriage type of union. people person spouse s
+127	film dubbing performance language. film actor dubbing performances
+128	sports sports team roster team. sports sports position players
+129	award award honor honored for. award award ceremony awards presented
+130	sport sports team sports
+131	country of origin tv program tv
+132	disciplines or subjects award category award
+133	base popstra friendship participant. base popstra celebrity friendship
+134	languages spoken ethnicity people
+135	genre tv program tv
+136	education education major field of study. education educational degree people with this degree
+137	people sibling relationship sibling. people person sibling s
+138	measurement unit dated money value currency. business business operation assets
+139	olympics olympic medal honor medal. olympics olympic games medals awarded
+140	edited by film film
+141	film performance special performance type. film actor film
+142	educational institution educational institution campus education
+143	written by film film
+144	sports sports team roster position. sports sports position players
+145	base schemastaging phone sandbox service location. base schemastaging organization extra phone number
+146	film personal film appearance person. film film personal appearances
+147	user tsegaran random taxonomy entry taxonomy. user tsegaran random taxonomy subject entry
+148	gender person people
+149	place of death deceased person people
+150	measurement unit dated money value currency. location statistical region rent50 2
+151	music recording contribution performance role. music performance role guest performances
+152	olympics olympic medal honor medal. olympics olympic participating country medals won
+153	split to gardening hint dataworld
+154	capital country location
+155	award award honor award. award award winning work awards won
+156	tv tv producer term producer type. tv tv program tv producer
+157	state bibs location biblioness base
+158	influence peer relationship peers. influence influence node peers
+159	story by film film
+160	first level division of administrative division location
+161	baseball baseball team stats season. baseball baseball team team stats
+162	award hall of fame induction inductee. award hall of fame inductees
+163	american football football roster position position. sports sports team roster
+164	base schemastaging phone sandbox service language. base schemastaging organization extra phone number
+165	american football football historical roster position position s. sports sports position players
+166	titles netflix genre media common
+167	people marriage spouse. people person spouse s
+168	people cause of death people
+169	organizations founded organization founder organization
+170	government government position held jurisdiction of office. government government office category officeholders
+171	languages tv program tv
+172	base popstra vacation choice vacationer. base popstra location vacationers
+173	influenced by influence node influence
+174	second level divisions country location
+175	sports pro sports played athlete. sports sport pro athletes
+176	government government position held district represented. government legislative session members
+177	olympics olympic athlete affiliation olympics. olympics olympic sport athletes
+178	risk factors disease medicine
+179	award award honor award winner. award award ceremony awards presented
+180	sports sports team roster position. american football football team current roster
+181	music recording contribution performance role. music artist contribution
+182	campuses educational institution education
+183	form of government country location
+184	base marchmadness ncaa tournament seed team. base marchmadness ncaa basketball tournament seeds
+185	education education major field of study. education field of study students majoring
+186	nationality person people
+187	film film regional release date film release distribution medium. film film release date s
+188	film format film film
+189	sports sports team roster team. soccer football player current team
+190	government government position held legislative sessions. government politician government positions held
+191	cinematography film film
+192	place of burial deceased person people
+193	administrative parent administrative area schema aareas base
+194	parent genre genre music
+195	sports sports league draft pick school. sports sports league draft picks
+196	location religion percentage religion. location statistical region religions
+197	time zones location location
+198	olympics olympic medal honor olympics. olympics olympic participating country medals won
+199	film film film distributor relationship film. film film distributor films distributed
+200	film dubbing performance actor. film film dubbing performances
+201	location mailing address citytown. organization organization headquarters
+202	sports sports team roster team. sports pro athlete teams
+203	measurement unit dated money value currency. education university local tuition
+204	artist record label music
+205	business employment tenure company. business job title people with this title
+206	family instrument music
+207	interests philosopher philosophy alexander user
+208	measurement unit adjusted money value adjustment currency. location statistical region gdp real
+209	tv tv regular personal appearance person. tv non character role tv regular personal appearances
+210	county hud county place location
+211	government government position held basic title. government politician government positions held
+212	base schemastaging phone sandbox contact category. base schemastaging organization extra phone number
+213	religion person people
+214	measurement unit dated money value currency. education university domestic tuition
+215	award award nomination award nominee. award award nominee award nominations
+216	music group membership group. music performance role regular performances
+217	measurement unit dated money value currency. education university international tuition
+218	film festivals film film
+219	measurement unit dated money value currency. location statistical region gdp nominal
+220	base saturdaynightlive snl season tenure cast members. base saturdaynightlive snl cast member seasons
+221	education education student. education field of study students majoring
+222	measurement unit dated money value currency. location statistical region gni per capita in ppp dollars
+223	base localfood produce availability seasonal months. base localfood seasonal month produce available
+224	films film subject film
+225	sports sports team roster position. soccer football team current roster
+226	partially contains location location
+227	celebrities romantic relationship celebrity. celebrities celebrity sexual relationships
+228	people marriage location of ceremony. people person spouse s
+229	entity involved event culturalevent base
+230	organization organization membership organization. organization organization member member of
+231	countries within continents locations base
+232	official language country location
+233	production companies film film
+234	measurement unit dated money value currency. base schemastaging person extra net worth
+235	notable people with this condition disease medicine
+236	film personal film appearance type of appearance. film person or entity appearing in film films
