@@ -35,3 +35,14 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch --config_file=config_w_ds_n4.yaml
 ```
 
 ## Evaluation
+
+Evaluate on the embedding-based knowledge graph completion (KGC) task.
+
+```shell
+CUDA_VISIBLE_DEVICES=0 python src/eval_kgc.py \
+    --data_path data/wn18rr \
+    --embed_batch_size 64 \
+    --test_batch_size 8 \
+    --pooling_type eos \
+    --output_dir llama_models/kalm_wn18rr_ckpt
+```
