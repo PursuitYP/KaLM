@@ -56,3 +56,15 @@ CUDA_VISIBLE_DEVICES=0 python src/eval_kgqa_tail_pred.py \
     --dataset_dir data/wn18rr \
     --with_desc True
 ```
+
+
+## Results
+
+Embedding-based knowledge graph completion (KGC) results.
+
+![](figs/kgc_results.jpg)
+
+
+Generation-based knowledge graph question answering (KGQA) cases.
+
+![](figs/kgqa_cases.png)
