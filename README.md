@@ -46,3 +46,13 @@ CUDA_VISIBLE_DEVICES=0 python src/eval_kgc.py \
     --pooling_type eos \
     --output_dir llama_models/kalm_wn18rr_ckpt
 ```
+
+Evaluate on the generation-based knowledge graph question answering (KGQA) task.
+
+```shell
+CUDA_VISIBLE_DEVICES=0 python src/eval_kgqa_tail_pred.py \
+    --base_model meta-llama/Llama-2-7b-hf \
+    --lora_ckpt_dir llama_models/kalm_wn18rr_ckpt \
+    --dataset_dir data/wn18rr \
+    --with_desc True
+```
