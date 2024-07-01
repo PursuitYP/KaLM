@@ -1,4 +1,4 @@
-name: llama_etuning
+name: kalm_tuning
 channels:
   - defaults
 dependencies:

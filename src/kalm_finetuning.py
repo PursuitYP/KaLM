@@ -27,7 +27,7 @@ from llmtuner.extras.logging import get_logger
 from llmtuner.extras.misc import count_parameters
 from llmtuner.extras.callbacks import LogCallback, SavePeftModelCallback
 from llmtuner.extras.ploting import plot_loss
-from lkm_utils.dataset_utils import get_triples, get_text_info, get_text_info_inverse
+from lkm_utils.dataset_utils import get_triples, get_text_info_inverse
 
 
 # set logger

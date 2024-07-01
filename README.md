@@ -1,12 +1,37 @@
-## KaLM: Knowledge-aligned Language Modeling
+# KaLM: Knowledge-aligned Language Modeling
 
 This repository contains code for the paper: 
 *KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning*. (ARR EMNLP 2024)
 
 ![](figs/KaLM-on.png)
 
-### Setup
+## Setup
 
-### Finetuning
+Download this repository and install the necessary requirements.
+```shell
+conda env create -f environment.yaml
+```
 
-### Evaluation
+## Finetuning
+
+Fine-tuning the model using the LoRA method and deepspeed ZeRO-2 optimization.
+
+```shell
+CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch --config_file=config_w_ds_n4.yaml src/kalm_finetuning.py \
+    --dataset_path data/wn18rr \
+    --output_dir llama_models/kalm_wn18rr_ckpt \
+    --learning_rate 1e-4 \
+    --per_device_train_batch_size 24 \
+    --sft_batch_size 4 \
+    --ent_cutoff_len 50 \
+    --sft_cutoff_len 256 \
+    --log_steps 1 \
+    --save_steps 1000 \
+    --num_gpus 4 \
+    --num_train_epochs 20 \
+    --use_kge_loss True \
+    --use_lm_loss True \
+    --loss_alpha 0.01
+```
+
+## Evaluation
