@@ -1,5 +1,7 @@
-## KaLM
+## KaLM: Knowledge-aligned Language Modeling
 
-README file for KaLM.
+This repository contains code for the paper: 
+*KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning*
 
-Example. 
+![](figs/KaLM-on.png)
+
