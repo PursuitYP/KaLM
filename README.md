@@ -1,7 +1,7 @@
 # KaLM: Knowledge-aligned Language Modeling
 
 This repository contains code for the paper: 
-*KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning*. (ARR EMNLP 2024)
+*KaLM: Knowledge-aligned Autoregressive Language Modeling via Dual-view Knowledge Graph Contrastive Learning*. (COLING 2025)
 
 ![](figs/KaLM-on.png)
 
