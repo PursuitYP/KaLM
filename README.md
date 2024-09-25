@@ -62,7 +62,7 @@ CUDA_VISIBLE_DEVICES=0 python src/eval_kgqa_tail_pred.py \
 
 Embedding-based knowledge graph completion (KGC) results.
 
-![](figs/kgc_results.jpg)
+![](figs/kgc_results.png)
 
 
 Generation-based knowledge graph question answering (KGQA) cases.
