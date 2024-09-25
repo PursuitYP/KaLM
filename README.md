@@ -66,7 +66,7 @@ Embedding-based knowledge graph completion (KGC) results.
 
 Generation-based knowledge graph question answering (KGQA) results.
 
-![](figs/kgqa-bar-chart-more.pdf)
+![](figs/kgqa-bar-chart-more.png)
 
 Generation-based knowledge graph question answering (KGQA) cases.
 
