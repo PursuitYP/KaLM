@@ -14,7 +14,7 @@ conda env create -f environment.yaml
 
 ## Finetuning
 
-Fine-tuning the model using the LoRA method and deepspeed ZeRO-2 optimization.
+Fine-tuning the model using the LoRA method with deepspeed ZeRO-2 optimization.
 
 ```shell
 CUDA_VISIBLE_DEVICES=0,1,2,3 accelerate launch --config_file=config_w_ds_n4.yaml src/kalm_finetuning.py \
